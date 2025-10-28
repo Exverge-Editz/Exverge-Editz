@@ -29,6 +29,6 @@ I'm a passionate **[software engineer]** from **[the UK]** with experience in **
 
 ## Get in Touch 📬
 
-- ![LinkedIn](www.linkedin.com/in/callum-fromant-b369b3372)
+- [LinkedIn](www.linkedin.com/in/callum-fromant-b369b3372)
 
 
