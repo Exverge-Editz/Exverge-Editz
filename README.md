@@ -35,4 +35,4 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 
 ## Get in Touch 📬
 
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/callum-fromant-b369b3372)
+- [LinkedIn](www.linkedin.com/in/callum-fromant-b369b3372)
