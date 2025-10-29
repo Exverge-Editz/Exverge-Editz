@@ -1,6 +1,6 @@
 # Hi there, I'm Callum Fromant! 👋😁
 
-![Banner GIF](https://tenor.com/view/dancing-gopher-dancing-gopher-golang-gif-21954547)
+![Banner Image](https://wallpaperaccess.com/full/5750703.jpg)
 
 ## About Me 💂
 
@@ -35,4 +35,4 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 
 ## Get in Touch 📬
 
-- [![Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/callum-fromant-b369b3372)
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/callum-fromant-b369b3372)
