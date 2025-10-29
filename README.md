@@ -8,9 +8,13 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 
 - 🌱 Currently learning: **Golang and CSS**
 - 🔭 Working on: **a particle physics simulator**
-- 🌍 Languages: **python, Golang, HTML, CSS and english**
+- 🌍 Languages: **Python, Golang, HTML, CSS and English**
 - 📫 How to reach me: **callumfromant@gmail.com**
 - ⚡ Fun fact: **love warhammer 40k and neon genisis evangelion**
+
+## My Stats 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Exverge-Editz&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exverge-Editz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills 🧠
 
@@ -25,10 +29,8 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 
 ### [partical physics simulator](https://github.com/Exverge-Editz/Particle-physics-simulator)
 
-**the particle physics simulator** is a **programme made with python, pygame and JSON**. it allows **the user to add particles to the screen, whatch them interact becuase of sub-atomic forces and write a note about what they saw**. this note is stored in a **JSON file** and then it is displayed in the same menu that the user writes the note. This project demonstrates my ability to **use OOP and the ability to read, write and create JSON files**. You can check out the repository [here](https://github.com/Exverge-Editz/Particle-physics-simulator).
+**the particle physics simulator** is a **programme made with python, pygame and JSON**. it allows **the user to add particles to the screen, whatch them interact becuase of sub-atomic forces and write a note about what they saw**. this note is stored in a **JSON file** and then it is displayed in the same menu that the user writes the note. This project demonstrates my ability to **use OOP and the ability to read, write and create JSON files an my ability to use the pygame library**. You can check out the repository [here](https://github.com/Exverge-Editz/Particle-physics-simulator).
 
 ## Get in Touch 📬
 
 - [LinkedIn](www.linkedin.com/in/callum-fromant-b369b3372)
-
-
