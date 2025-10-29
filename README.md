@@ -13,7 +13,7 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 - ⚡ Fun fact: **love warhammer 40k and neon genisis evangelion**
 
 ## My Stats 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Exverge-Editz&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Exverge-Editz&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exverge-Editz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
