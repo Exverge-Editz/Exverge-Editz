@@ -25,7 +25,7 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 
 ### [partical physics simulator](https://github.com/Exverge-Editz/Particle-physics-simulator)
 
-**particle physics simulator** is a **simulator where the user can place down particles and see their interaction. the user can also write and store a note about what they had saw** built with **python, pygame and JSON**. This project demonstrates my ability to **use OOP and can read, write and create JSON files**. You can check out the repository [here](https://github.com/Exverge-Editz/Particle-physics-simulator).
+**the particle physics simulator** is a **programme made with python, pygame and JSON**. it allows **the user to add particles to the screen, whatch them interact becuase of sub-atomic forces and write a note about what they saw**. this note is stored in a **JSON file** and then it is displayed in the same menu that the user writes the note. This project demonstrates my ability to **use OOP and the ability to read, write and create JSON files**. You can check out the repository [here](https://github.com/Exverge-Editz/Particle-physics-simulator).
 
 ## Get in Touch 📬
 
