@@ -4,7 +4,9 @@
 
 ## About Me 💂
 
-I'm a passionate **software engineer** from **the UK** with experience in **python, Golang, HTML and CSS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Software Engineer based in **the UK** with a experince in **Python, Golang, HTML and CSS**. So I am able to work as both a frontend and backend developer, but I prefer working on the backend.
+
+I enjoy tackling complex technical challenges, and my goal is always to deliver clean, highly scalable code. I love collaborating in cross-functional teams and am dedicated to mastering new skills in the engineering space.
 
 - 🌱 Currently learning: **Golang and CSS**
 - 🔭 Working on: **a particle physics simulator**
@@ -12,10 +14,13 @@ I'm a passionate **software engineer** from **the UK** with experience in **pyth
 - 📫 How to reach me: **callumfromant@gmail.com**
 - ⚡ Fun fact: **love warhammer 40k and neon genisis evangelion**
 
-## My Stats 🔥
+## My experience 👩‍💼🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=Exverge-Editz&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exverge-Editz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+**BT Group work experience**
+I completed a one-week project at **BT Group** where I developed a website along side a cross-functional team of designers and analysist focused on employee satisfaction and internal perspectives on the company culture. becaus eof this project I significantly honed my cross-functional **collaboration skills** and advanced my proficiency in **HTML** and **CSS**. 
 
 ## My Skills & Languages 🧠
 
