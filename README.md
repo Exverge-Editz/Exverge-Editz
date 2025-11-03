@@ -4,7 +4,7 @@
 
 ## About Me 💂
 
-I'm a passionate Software Engineer based in **the UK** with a experince in **Python, Golang, HTML and CSS**. So I am able to work as both a frontend and backend developer, but I prefer working on the backend.
+I'm a passionate Software Engineer based in **the UK** with experince in **Python, Golang, HTML and CSS**. So I am able to work as both a frontend and backend developer, but I prefer working on the backend.
 
 I enjoy tackling complex technical challenges, and my goal is always to deliver clean, highly scalable code. I love collaborating in cross-functional teams and am dedicated to mastering new skills in the engineering space.
 
@@ -20,7 +20,7 @@ I enjoy tackling complex technical challenges, and my goal is always to deliver 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exverge-Editz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **BT Group work experience**
-I completed a one-week project at **BT Group** where I developed a website along side a cross-functional team of designers and analysist focused on employee satisfaction and internal perspectives on the company culture. becaus eof this project I significantly honed my cross-functional **collaboration skills** and advanced my proficiency in **HTML** and **CSS**. 
+I completed a one-week project at **BT Group** where I developed a website along side a cross-functional team of designers and analysist focused on employee satisfaction and internal perspectives on the company culture. because of this project I significantly honed my cross-functional **collaboration skills** and advanced my proficiency in **HTML** and **CSS**. 
 
 ## My Skills & Languages 🧠
 
@@ -36,7 +36,7 @@ I completed a one-week project at **BT Group** where I developed a website along
 
 ### [partical physics simulator](https://github.com/Exverge-Editz/Particle-physics-simulator)
 
-**the particle physics simulator** is a **programme made with python, pygame and JSON**. it allows **the user to add particles to the screen, whatch them interact becuase of sub-atomic forces and write a note about what they saw**. this note is stored in a **JSON file** and then it is displayed in the same menu that the user writes the note. This project demonstrates my ability to **use OOP and the ability to read, write and create JSON files an my ability to use the pygame library**. You can check out the repository [here](https://github.com/Exverge-Editz/Particle-physics-simulator).
+**the particle physics simulator** is a **programme made with python, pygame and JSON**. it allows **the user to add particles to the screen, whatch them interact because of sub-atomic forces and write a note about what they saw**. this note is stored in a **JSON file** and then it is displayed in the same menu that the user writes the note. This project demonstrates my ability to **use OOP and the ability to read, write and create JSON files an my ability to use the pygame library**. You can check out the repository [here](https://github.com/Exverge-Editz/Particle-physics-simulator).
 
 ## Get in Touch 📬
 
